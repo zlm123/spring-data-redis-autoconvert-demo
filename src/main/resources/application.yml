@@ -1,0 +1,6 @@
+spring:
+  redis:
+    host: localhost
+    database: 15
+    port: 6379
+    password: arui
